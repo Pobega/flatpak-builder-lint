@@ -1285,6 +1285,9 @@
     "com.flashforge.FlashPrint": {
         "flathub-json-modified-publish-delay": "extra-data"
     },
+    "com.fightcade.Fightcade": {
+        "flathub-json-modified-publish-delay": "Client version must be in sync with server to function"
+    },
     "com.getpostman.Postman": {
         "flathub-json-modified-publish-delay": "extra-data"
     },
@@ -1474,4 +1477,3 @@
     "io.github.hakandundar34coding.system-monitoring-center": {
         "finish-args-flatpak-spawn-access": "required for host shell access for getting system information such as processes, services, number of packages, etc."
     }
-}
